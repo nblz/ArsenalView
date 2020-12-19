@@ -602,7 +602,7 @@ span.adress {
 }
 
 .logo_bar {
-    width: 100vw;
+    width: 100%;
     min-height: 100px;
     background-color: #fff;
     border-bottom: 1px solid #c6c6c6;
